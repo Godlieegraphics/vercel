@@ -1,0 +1,13 @@
+#covers{
+    text-align: center;
+    align-items: center;
+    background: url(BOVI4201.JPG) no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+
+#covers h4{
+    color: white;
+    font-size: 90px;
+    text-transform: uppercase;
+}

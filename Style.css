@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+    align-items: center;
+    background: url(BOVI4201.JPG) no-repeat;
+    background-size: cover;
+}
+
+.Glass{
+    background-color: rgba(128, 0, 128, 0.692);
+    margin: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 50px;
+    border: white solid 2px;
+}
+
+/* Form */
+form{
+    color: white;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+#username{
+    padding: 7px;
+    width: 360px;
+    color: blue;
+    border-radius: 3px;
+    border: white 1px solid;
+}
+#password{
+    padding: 7px;
+    width: 360px;
+    color: blue;
+    border-radius: 3px;
+    border: white 1px solid;
+}
+#email{
+    padding: 7px;
+    width: 360px;
+    color: blue;
+    border-radius: 3px;
+    border: white 1px solid;
+}
+
+#button{
+    width: 380px;
+    background-color: rgb(225, 0, 255);
+    height: 40px;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    
+}
+#button:hover{
+    width: 380px;
+    background-color: rgb(180, 34, 199);
+    height: 40px;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    
+}
+
+
+.Glass h6{
+    color: white;
+    font-size: 25px;
+}
+
+footer{
+    background-color: white;
+    color: rgb(180, 34, 199);
+    text-transform: uppercase;
+    word-spacing: 4px;
+}
